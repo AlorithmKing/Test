@@ -1,0 +1,16 @@
+USER Select points
+Select points
+
+
+%CIUSER Color set to yellow
+Subsequent graphics will be drawn in yellow regardless of color scheme.
+
+
+%CIUSER Color set to datum axis
+Subsequent graphics will be drawn in the color used to display datum axes.
+
+
+%CIUSER Color set to defaults
+Subsequent graphics will be drawn in the default colors.
+
+

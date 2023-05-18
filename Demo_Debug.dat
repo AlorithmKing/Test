@@ -1,0 +1,7 @@
+Name MYFDemoDebug
+startup dll
+exec_file D:\VS2022Project\Test\x64\Debug\Test.dll
+text_dir  D:\VS2022Project\Test\text
+allow_stop true
+revision Wildfire
+end

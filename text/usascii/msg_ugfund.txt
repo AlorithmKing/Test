@@ -1,0 +1,12 @@
+USER Pick point on the screen 
+Pick a point on the screen to be transformed
+#
+#
+USER %0s F
+%0s
+#
+#
+USER Demo plot filename [QUIT] : 
+Enter the name of the plot file [QUIT] :
+#
+#

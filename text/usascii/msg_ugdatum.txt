@@ -1,0 +1,16 @@
+USER Select a reference surface
+Select a reference surface
+#
+#
+USER Enter the offset value:
+Enter the offset value:
+#
+#
+USER Create datum plane at part or assembly level (prt or asm):
+Create datum plane at part or assembly level (prt or asm):
+#
+#
+USER %0s
+%0s
+#
+#
